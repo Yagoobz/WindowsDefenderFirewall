@@ -5,5 +5,5 @@
 <br />
 
 <h4>:):</h4>
-<img src="https://github.com/Yagoobz/CustomPCBuilds/assets/145611184/70aa943c-2c96-4b7a-a410-188eafe65470" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/47667394-e007-43d0-a3e7-1fcf134dc095" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
