@@ -38,7 +38,7 @@ I located the Key Management Service inbound rule and noted the current status a
 <h3>Step 3: Create and Configure a New Rule </h3>
 I copied the Key Management Service inbound rule by copy pasting it and double-clicked the copied rule to access its properties. In the General tab, I select Block the connection to deny communication. Then in the Advanced tab, deselect the Domain and Private profiles and select the Public profile.
 <br />
-<img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/8efedb3f-68a1-4fdd-8039-15ba9f2160bf" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/f9ca7ee8-79ac-40ad-b3a5-2f0fde3d99b8" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
