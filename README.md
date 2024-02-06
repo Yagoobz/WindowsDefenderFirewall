@@ -52,5 +52,4 @@ I then right-click each Key Management Service rule and select Enable rule. Veri
 While the second rule blocking communication is also enabled with a circle and line symbol.
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/f296976e-2e28-49a8-8b09-f37ab9a927ff" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
-
-
+By following these steps, I have successfully configured firewall rules using Windows Defender Firewall with Advanced Security, ensuring that the Key Management Service allows connections on the Domain and Private networks while denying access on the Public network.
