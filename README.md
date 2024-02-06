@@ -47,7 +47,7 @@ In the Advanced tab, deselect the Domain and Private profiles and select the Pub
 <h3>Step 4: Enabling Rules</h3>
 I then right-click each Key Management Service rule and select Enable rule. Verifying that the first rule allowing communication is enabled with a green checkmark.
 <br />
-<img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/f9ca7ee8-79ac-40ad-b3a5-2f0fde3d99b8" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/c8f30ae2-f324-41d0-a5a2-3c3219b0cab6" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 While the second rule blocking communication is also enabled with a circle and line symbol.
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/1c57b3c8-9a5f-4adf-a6da-30a35926e846" height="30%" width="70%" alt="Disk Sanitization Steps"/>
