@@ -50,7 +50,7 @@ I then right-click each Key Management Service rule and select Enable rule. Veri
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/c8f30ae2-f324-41d0-a5a2-3c3219b0cab6" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 While the second rule blocking communication is also enabled with a circle and line symbol.
-<img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/1c57b3c8-9a5f-4adf-a6da-30a35926e846" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/f296976e-2e28-49a8-8b09-f37ab9a927ff" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 
 
