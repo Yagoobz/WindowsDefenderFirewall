@@ -1,7 +1,7 @@
 <h1>Windows Defender Firewall</h1>
 
-<h2>Description</h2>
-...
+<h2>About This Lab</h2>
+Windows Defender Firewall is essential for protecting your system against network threats. In this lab, I'll show you how I configured firewall rules using both Windows Defender Firewall and its Advanced Security features.
 <br />
 
 <h4>...</h4>
