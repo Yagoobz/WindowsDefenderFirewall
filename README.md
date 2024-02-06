@@ -16,6 +16,7 @@ Then I made sure to click on each network profile - Domain, Private, and Public 
 
 <h3>Step 2: Allow Firefox through Firewall</h3>
 Let's make an exception for Mozilla Firefox. I clicked on 'Allow an app through firewall' and locate Firefox in the list. I noticed that it's allowed on the Private network but blocked on the Public network. To rectify this, I simply checked the box next to 'Public' for Firefox. Once done, I hit 'OK' to return to the Firewall & network protection screen.
+<br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/0e2a2c11-7339-48b0-a8ae-5d8f55af9c16" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h2>Exercise 2: Configuring Firewall Rules Using Windows Defender Firewall with Advanced Security</h2>
