@@ -3,7 +3,7 @@
 <h2>About This Lab</h2>
 Windows Defender Firewall is essential for protecting your system against network threats. In this lab, I'll show you how I configured firewall rules using both Windows Defender Firewall and its Advanced Security features.
 
-<h2>Exercise 1: Configure Firewall Rules Using Windows Defender Firewall</h2>
+<h2>Part 1: Configure Firewall Rules Using Windows Defender Firewall</h2>
 
 <h3>Objectives</h3>
 - Get familiar with configuring Firewall Rules Using Windows Defender Firewall.
@@ -19,7 +19,7 @@ Let's make an exception for Mozilla Firefox. I clicked on 'Allow an app through 
 <br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/0e2a2c11-7339-48b0-a8ae-5d8f55af9c16" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
-<h2>Exercise 2: Configuring Firewall Rules Using Windows Defender Firewall with Advanced Security</h2>
+<h2>Part 2: Configuring Firewall Rules Using Windows Defender Firewall with Advanced Security</h2>
 
 <h3>Objectives</h3>
 - Allow the connection for Key Management Service on the Domain and Private network.
