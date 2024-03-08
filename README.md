@@ -17,6 +17,7 @@ Then I made sure to click on each network profile - Domain, Private, and Public 
 <h3>Step 2: Allow Firefox through Firewall</h3>
 Let's make an exception for Mozilla Firefox. I clicked on 'Allow an app through firewall' and located Firefox in the list. I noticed that it's allowed on the Private network but blocked on the Public network. To rectify this, I simply checked the box next to 'Public' for Firefox. Once done, I hit 'OK' to return to the Firewall & network protection screen.
 <br />
+<br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/0e2a2c11-7339-48b0-a8ae-5d8f55af9c16" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h2>Part 2: Configuring Firewall Rules Using Windows Defender Firewall with Advanced Security</h2>
@@ -32,24 +33,31 @@ First I navigated to the Firewall & network protection screen and select Advance
 <h3>Step 2: Reviewing Key Management Service Rule & Modify The Rule</h3>
 I located the Key Management Service inbound rule and noted the current status and action of the rule. Then I double-clicked the Key Management Service inbound rule to open its properties, and in the Advanced tab deselected the Public profile to restrict communication to the Domain and Private networks.
 <br />
+<br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/8efedb3f-68a1-4fdd-8039-15ba9f2160bf" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 
 <h3>Step 3: Create and Configure a New Rule</h3>
 I copied the Key Management Service inbound rule by copy pasting it and double-clicked the copied rule to access its properties. In the General tab, I select Block the connection to deny communication.
 <br />
+<br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/f9ca7ee8-79ac-40ad-b3a5-2f0fde3d99b8" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 In the Advanced tab, deselect the Domain and Private profiles and select the Public profile.
+<br />
+<br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/1c57b3c8-9a5f-4adf-a6da-30a35926e846" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 
 <h3>Step 4: Enabling Rules</h3>
 I then right-click each Key Management Service rule and select Enable rule. Verifying that the first rule allowing communication is enabled with a green checkmark.
 <br />
+<br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/c8f30ae2-f324-41d0-a5a2-3c3219b0cab6" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 While the second rule blocking communication is also enabled with a circle and line symbol.
+<br />
+<br />
 <img src="https://github.com/Yagoobz/WindowsDefenderFirewall/assets/145611184/f296976e-2e28-49a8-8b09-f37ab9a927ff" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 By following these steps, I have successfully configured firewall rules using Windows Defender Firewall with Advanced Security, ensuring that the Key Management Service allows connections on the Domain and Private networks while denying access on the Public network.
